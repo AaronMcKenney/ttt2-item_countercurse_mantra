@@ -1,0 +1,12 @@
+{
+	"title"		:	"[TTT2] Countercurse Mantra",
+	"type"		:	"ServerContent",
+    "tags"		:	[ "roleplay", "fun" ],
+    "ignore"    : [
+        ".git/*",
+        ".gitignore",
+        "README.md",
+        "ttt2-item_countercurse_mantra.jpg",
+        "ttt2-item_countercurse_mantra.txt"
+    ]
+}

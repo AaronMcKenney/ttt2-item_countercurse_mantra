@@ -1,0 +1,21 @@
+[URL=https://steamcommunity.com/sharedfiles/filedetails/?id=1357204556]TTT2[/URL] Required
+[URL=https://steamcommunity.com/sharedfiles/filedetails/?id=2535321538]Cursed role[/URL] Required
+ 
+Source: [url=https://github.com/AaronMcKenney/ttt2-item_countercurse_mantra][/url]
+ 
+The Countercurse Mantra is a passive item available for both Detectives and Traitors. It will prevent the wearer from having their role swapped by the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2535321538]Cursed[/URL] role. It will also provide the wearer with 15 armor (configurable).
+ 
+The wearer may still become Cursed through other means (ex. an Amnesiac wearing the Countercurse Mantra will still become Cursed if they look at a Cursed corpse).
+ 
+Cursed players will be informed that their targets were "protected from curses".
+ 
+Consider adding this item to the Survivalist's shop, so that a Traitor who is questioned by an inquisitve Cursed player can more effectively lie to them.
+ 
+[h1]Countercurse Mantra ConVars (also found in ULX):[/h1]
+[code]# How much armor should the Countercurse Mantra provide?
+  ttt2_countercurse_mantra_armor [0..n] (default: 15)[/code]
+ 
+--
+[h1]Credits:[/h1]
+[URL=https://steamcommunity.com/profiles/76561198025772353/]BlackMagicFine[/URL]: creator of this role addon
+[URL=https://steamcommunity.com/id/SmugglesTheButt/]Smuggles[/URL]: Creator of the original Cursed icon, which I messed with for the thumbnail
